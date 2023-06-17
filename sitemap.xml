@@ -13,12 +13,21 @@
         <loc>https://olaftnt.github.io/MotoTools/search.html</loc>
     </url>
     <url>
+        <loc>https://olaftnt.github.io/MotoTools/search_date.html</loc>
+    </url>
+    <url>
         <loc>https://olaftnt.github.io/MotoTools/statute.html</loc>
     </url>
     <url>
         <loc>https://olaftnt.github.io/MotoTools/vehicle.html</loc>
     </url>
     <url>
+        <loc>https://olaftnt.github.io/MotoTools/vehicle_date.html</loc>
+    </url>
+    <url>
         <loc>https://olaftnt.github.io/MotoTools/wait.html</loc>
+    </url>
+    <url>
+        <loc>https://olaftnt.github.io/MotoTools/wait_date.html</loc>
     </url>
 </urlset>
